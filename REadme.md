@@ -16,6 +16,7 @@ To create a Work-Day-Schuduler to display our time daily life. It should include
 [Third-Party-APIs-Work-Day-Scheduler Page on GitHub](https://github.com/Maykanwara/Third-Party-APIs-Work-Day-Scheduler)
 ​
 ## Link to Deployed Application
+(https://maykanwara.github.io/Third-Party-APIs-Work-Day-Scheduler/)
 ​
 [Live Depoyment Link]()
 ​
