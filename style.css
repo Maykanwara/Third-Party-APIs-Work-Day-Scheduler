@@ -21,7 +21,7 @@ body {
   }
   
   .input-container {
-    background-color: #FEC260;
+    background-color: #fe608f;
     padding: 0px;
     margin: 0px;
     text-align: start;
@@ -94,7 +94,7 @@ body {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06aed5;
+    background-color: #02071dc9;
     color: white;
   }
   
@@ -107,7 +107,7 @@ body {
     text-align: center;
     font-size: 25px;
     border-radius: 15px;
-    color: #e68e00;
+    color: #c4e600;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     text-shadow: 1px 1px 3px white;

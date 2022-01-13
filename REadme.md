@@ -18,7 +18,7 @@ To create a Work-Day-Scheduler to display our time daily life. It should include
 ## [Link to Deployed Application](https://maykanwara.github.io/Third-Party-APIs-Work-Day-Scheduler/)
 
 ## Screenshots of Finished Product
-![dayplanner screen shot](/assets/dayplanner.png)
+![dayplanner screen shot](image/screenshot.png)
 
 
 ## Contact Information
